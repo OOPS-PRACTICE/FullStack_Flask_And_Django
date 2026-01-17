@@ -1,0 +1,41 @@
+Mid-Term:
+- Revision of Python in detail with Programming
+- Difference between Flask and Django with its timelines
+- Client Server Architecture \ MVC arhitecture
+- Setup of FLask
+- Creation of "Hello World" program
+- Revision of HTML,CSS and Java Script with programming
+- Building of web pages
+- Types of HTTP Requests and its usage
+- Flask Routing
+- Templates creation
+- Forms page creation with the validation
+- Introduction\Revision of Database, SQL\MySql
+- Flask-SQL Alchemy and Database Integration
+- CRUD operations
+- User Authentication Page
+- How to do testing and Debugging. Implement test cases
+- Flask Blueprints and Modularization
+- REST API Development with Flask
+- What is JSON and how we write it.
+- Introduction of Postman
+- What is Auth Token and why we need it.
+- Implement token with the api's
+- Introduction of Github, how to do the code check in and show git commands
+- Introduction of Docker (and Heroku or cloud delpoyment ?)
+- Cretae few pages project and generate docker image
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Complete Term
+- Django Overview
+- MVT, URL Routing
+- Templates static files and Template Tags.
+- Django Models
+- Admin Interface
+- Create models and user authentication system with login\signup password handling
+- Detail discussion of Django REST framework : Serializers, Views, Create APIs for models, Class-Based Views and Views Set
+- API Security : Permissions, JWT, Throttling
+- FrontEnd Integration with Django API's
+- Pagination, Filtering, Signal
+- Creation of project 
+- How to do testing and implementation of testcases
+- Creation of CI\CD Pipeline (Github Action) and K8S deployment
