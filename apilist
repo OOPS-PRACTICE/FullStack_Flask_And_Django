@@ -1,0 +1,16 @@
+1. Store
+a. @app.get("/store") - To fetch the store list values
+b. @app.post("/store") - Add new store name
+c. @app.get("/store/<string:store_id>") - To fetch the specific store name from the store list
+d. @app.delete("/store/<string:store_id>") - To delete the specific store from the store list
+
+
+2. Items
+a. @app.post("/item")
+b. @app.get("/item")
+c. @app.get("/item/<string:item_id>")
+d. @app.delete("/item/<string:item_id>")
+e. @app.put("/item/<string:item_id>")
+
+
+
