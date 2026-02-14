@@ -1,8 +1,15 @@
+Quiz :
+
 Basic Python : functions, datatypes, arguments, decorators, try except
 Docker
 Flask 
 HTTP METHODS
 HTTP RESPONSE
 HTTPS VS HTTP
+
+LAB :
+
+GET,POST,PATCH.DELETE,PUT
+
 
 02/14 : git setup , get, put , delete api's    
