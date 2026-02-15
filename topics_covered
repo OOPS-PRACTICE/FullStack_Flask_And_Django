@@ -3,7 +3,7 @@ Quiz :
 Basic Python : functions, datatypes, arguments, decorators, try except, variables
 Docker, Docker Image, Docker Compose, Sample Docker file, Docker Desktop
 Flask , Flask Installation, Imported FLASK libraries, flask run, default ports url, route url path example : @app.route('/')
-HTTP METHODS: POST, GET, PUT, PATCH, DELETE
+HTTP METHODS: POST, GET, PUT, PATCH, DELETE, What is Idempotent methods, Why we need HTTP Methods.
 HTTP RESPONSE : 2xx and 4xx series
 Difference between HTTPS VS HTTP, Why we need HTTP model
 SQLAlchemy
