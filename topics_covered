@@ -1,15 +1,17 @@
 Quiz :
 
 Basic Python : functions, datatypes, arguments, decorators, try except, variables
-Docker
-Flask 
-HTTP METHODS
-HTTP RESPONSE
-HTTPS VS HTTP
+Docker, Docker Image, Docker Compose, Sample Docker file, Docker Desktop
+Flask , Flask Installation, Imported FLASK libraries, flask run, default ports url, route url path example : @app.route('/')
+HTTP METHODS: POST, GET, PUT, PATCH, DELETE
+HTTP RESPONSE : 2xx and 4xx series
+Difference between HTTPS VS HTTP, Why we need HTTP model
+SQLAlchemy
 
 LAB :
 
-GET,POST,PATCH.DELETE,PUT
+PRACTICE GET,POST,PATCH,DELETE,PUT methods
 
 
 02/14 : Laptops issues fixes, Code setup till date and runnable, get and delete methods
+02/18 : Download git, Code upload, sample questions practice, Queries, Items POST API, GET API's 
